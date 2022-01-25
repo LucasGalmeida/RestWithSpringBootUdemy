@@ -1,3 +1,4 @@
 # Curso da Udemy: REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker
-Desenvolva uma API REST do zero absoluto atendendo todos os níveis de maturidade RESTful e implante na AWS + React JS
+Curso de REST API's RESTFul, AWS, Spring Boot e Docker
+<br/>
 Disponível em: https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/
